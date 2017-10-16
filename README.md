@@ -5,6 +5,9 @@ available as [pre-print on ArXiv](https://arxiv.org/abs/1710.01269).
 
 ![Architecture Overview](docs/img/architecture.png "Architecture Overview")
 
+![Segmentation Example](docs/img/segsample.jpg "Segmentation Example")
+
+
 ## Citation
 If you use this work in your research, please cite:
 
