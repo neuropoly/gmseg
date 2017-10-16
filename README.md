@@ -7,6 +7,13 @@ available as [pre-print on ArXiv](https://arxiv.org/abs/1710.01269).
 
 ![Segmentation Example](docs/img/segsample.jpg "Segmentation Example")
 
+# Requirements Installation
+
+To use this repository, you'll need to install the following requirements:
+
+* [SCT (Spinal Cord Toolbox)](https://github.com/neuropoly/spinalcordtoolbox)
+* Install Python requirements with `pip install pip-requirements.txt`
+
 
 ## Citation
 If you use this work in your research, please cite:
