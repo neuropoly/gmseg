@@ -3,6 +3,8 @@
 This repository contains the source-code for the paper "Spinal cord gray matter segmentation using deep dilated convolutions",
 available as [pre-print on ArXiv](https://arxiv.org/abs/1710.01269).
 
+![Architecture Overview](docs/img/architecture.png "Architecture Overview")
+
 ## Citation
 If you use this work in your research, please cite:
 
