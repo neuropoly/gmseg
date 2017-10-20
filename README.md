@@ -13,8 +13,9 @@ available as [pre-print on ArXiv](https://arxiv.org/abs/1710.01269).
 
 To use this repository, you'll need to install the following requirements:
 
-* Install Python requirements with `pip install pip-requirements.txt`;
-* Open the Jupyter Notebook located at `notebooks` folder.
+* Clone the repository
+* Install Python requirements with `pip install -r pip-requirements.txt`
+* Open the Jupyter Notebook located at `notebooks` folder
 
 ## Citation
 If you use this work in your research, please cite:
