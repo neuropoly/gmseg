@@ -25,6 +25,7 @@ Some remarks regarding the model:
 * This repository contains the model trained on the GM Challenge Dataset (both train and validation),
   the model is located on the directory called `models` together with a json file containing
   the mean/std that was used to standardize the training data;
+* For the training procedure, please see the original paper for more information;
 
 ## Citation
 If you use this work in your research, please cite:
