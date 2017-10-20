@@ -1,5 +1,7 @@
 # Spinal cord gray matter segmentation using deep dilated convolutions
 
+[![Binder](https://beta.mybinder.org/badge.svg)](https://beta.mybinder.org/v2/gh/neuropoly/gmseg/master?filepath=notebooks%2Fchallenge-opensource-model.ipynb)
+
 This repository contains the source-code for the paper "Spinal cord gray matter segmentation using deep dilated convolutions",
 available as [pre-print on ArXiv](https://arxiv.org/abs/1710.01269).
 
@@ -13,8 +15,6 @@ To use this repository, you'll need to install the following requirements:
 
 * Install Python requirements with `pip install pip-requirements.txt`;
 * Open the Jupyter Notebook located at `notebooks` folder.
-
-
 
 ## Citation
 If you use this work in your research, please cite:
