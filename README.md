@@ -11,7 +11,6 @@ available as [pre-print on ArXiv](https://arxiv.org/abs/1710.01269).
 
 To use this repository, you'll need to install the following requirements:
 
-* [SCT (Spinal Cord Toolbox)](https://github.com/neuropoly/spinalcordtoolbox)
 * Install Python requirements with `pip install pip-requirements.txt`
 
 
