@@ -7,6 +7,8 @@ This repository contains the source-code for the paper "Spinal cord gray matter 
 You can see the MRI *ex-vivo* [segmentation video](https://www.youtube.com/watch?v=9Nz6H-wFCsM). Another
 manuscript is under review for the MRI *ex-vivo* data.
 
+[![Segmentation Video](docs/img/video_ss.png)](https://www.youtube.com/watch?v=9Nz6H-wFCsM)
+
 ![Architecture Overview](docs/img/architecture.png "Architecture Overview")
 
 ![Segmentation Example](docs/img/segsample.jpg "Segmentation Example")
