@@ -5,7 +5,7 @@
 You can see the MRI *ex-vivo* [segmentation video](https://www.youtube.com/watch?v=9Nz6H-wFCsM). Another
 manuscript is under review for the MRI *ex-vivo* data.
 
-![Segmentation Video](docs/img/video_ss.png)](https://www.youtube.com/watch?v=9Nz6H-wFCsM)
+[![Segmentation Video](docs/img/video_ss.png)](https://www.youtube.com/watch?v=9Nz6H-wFCsM)
 
 This repository contains the source-code for the paper "Spinal cord gray matter segmentation using deep dilated convolutions",
 available as [pre-print on ArXiv](https://arxiv.org/abs/1710.01269).
