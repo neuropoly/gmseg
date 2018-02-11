@@ -7,11 +7,6 @@ This repository contains the source-code for the paper "Spinal cord gray matter 
 *Note: this repository is made for researchers, if you just want to use the method on your data, this method was implemented in the [Spinal Cord Toolbox (SCT)](https://github.com/neuropoly/spinalcordtoolbox), where you
 can find pre-trained models on large datasets and a user-friendly command-line tool called sct_deepseg_gm.*
 
-This repository contains two notebooks:
-
-* [TensorFlow model](https://github.com/neuropoly/gmseg/blob/master/notebooks/challenge-opensource-model.ipynb)
-* [Pytorch model *(experimental)*](https://github.com/neuropoly/gmseg/blob/master/notebooks/challenge-pytorch-opensource-model.ipynb)
-
 You can see the MRI *ex-vivo* [segmentation video](https://www.youtube.com/watch?v=9Nz6H-wFCsM). Another
 manuscript is under review for the MRI *ex-vivo* data.
 
@@ -28,6 +23,13 @@ To use this repository, you'll need to install the following requirements:
 * Clone the repository
 * Install Python requirements with `pip install -r pip-requirements.txt`
 * Open the Jupyter Notebook located at `notebooks` folder
+
+# Notebooks
+
+This repository contains two notebooks:
+
+* [TensorFlow model](https://github.com/neuropoly/gmseg/blob/master/notebooks/challenge-opensource-model.ipynb)
+* [Pytorch model *(experimental)*](https://github.com/neuropoly/gmseg/blob/master/notebooks/challenge-pytorch-opensource-model.ipynb)
 
 # Remarks
 Some remarks regarding the model:
